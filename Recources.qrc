@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>gangsta.png</file>
+        <file>ground0003.jpg</file>
+        <file>lava0001.png</file>
+        <file>police enemy.png</file>
+        <file>bullet image.png</file>
+        <file>hearts1.jpg</file>
+        <file>hearts2.jpg</file>
+        <file>hearts3.jpg</file>
+        <file>Home.jpg</file>
+        <file>Sheild.png</file>
+    </qresource>
+    <qresource prefix="/Board">
+        <file>mapofgame.txt</file>
+    </qresource>
+</RCC>
